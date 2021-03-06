@@ -1,0 +1,31 @@
+title = "List of Assets separated by type"
+
+[br_stocks]
+name = "br_stocks"
+tickers = [ "BBDC4.SA", "SANB11.SA", "BBSE3.SA", "ITSA4.SA", "B3SA3.SA", "FLRY3.SA", "LREN3.SA", "SMLS3.SA", "WEGE3.SA", "TAEE11.SA", "EGIE3.SA", "EQTL3.SA", "ENBR3.SA", "ALUP11.SA", "SAPR3.SA", "KLBN11.SA" ]
+star_date = "01/01/2019"
+end_date = "Adj Close"
+
+[br_fiis]
+name = "br_fiis"
+tickers = [ "MXRF11.SA", "IRDM11.SA", "KNIP11.SA", "HGLG11.SA", "VILG11.SA", "HGBS11.SA", "HSML11.SA", "HGRE11.SA", "RZTR11.SA", "RECT11.SA", "KNRI11.SA", "HGRU11.SA", "XPIN11.SA" ]
+star_date = "01/01/2019"
+end_date = "Adj Close"
+
+[usa_stocks]
+name = "usa_stocks"
+tickers = [ "AAPL", "TSLA", "CSCO", "AMZN", "GOOGL", "MSFT", "NVDA", "AMD", "MU", "TSM", "TXN", "NKE", "BK", "BLK", "V", "JNJ", "SBUX" ]
+star_date = "01/01/2019"
+end_date = "Adj Close"
+
+[usa_reits]
+name = "usa_reits"
+tickers = [ "STAG", "TRNO", "REXR", "EQIX", "DLR", "IIPR", "SLG", "ARE", "NNN", "O", "AMT", "PSA" ]
+star_date = "01/01/2019"
+end_date = "Adj Close"
+
+[world_indices]
+name = "world_indices"
+tickers = [ "^GSPC", "^DJI", "^IXIC", "^NYA", "^RUT", "^N225", "^BVSP" ]
+star_date = "01/01/2019"
+end_date = "Adj Close"
